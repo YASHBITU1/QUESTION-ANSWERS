@@ -1,0 +1,21 @@
+.header{
+    background-color: darkgrey;
+    border: white;
+    margin-left:50px;
+    margin-right:50px;
+    
+}
+.questions{
+    background-color:skyblue;
+    font-size: 30px;
+   margin-left: 20px;
+   margin-right: 20px;
+
+}
+.answers{
+    background-color: darkgrey;
+    font-size: 30px;
+    font-style: italic;
+    margin-left:20px;
+    margin-right:20px;
+}
